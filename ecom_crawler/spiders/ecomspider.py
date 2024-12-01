@@ -3151,6 +3151,8 @@ class EcomspiderSpider(scrapy.Spider):
             ecom_item['sku'] = selector.xpath("//ul[@class='specification-keys']//li[span[contains(text(), 'SKU')]]/div[@class='key-value']/text()").get()
             ecom_item['brand_name'] = selector.xpath("//div[@class='pdp-product-brand']//a[@class='pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link']/text()").get()
             images_list = selector.css("#root #block-1zS9PxaSTs #block-7J1Jvz6odp #module_item_gallery_1 .item-gallery .item-gallery-slider .next-slick-inner .next-slick-list .next-slick-track .next-slick-slide")
+            color_image_url = selector.xpath('//div[@class="sku-prop"][.//h6[text()="Color Family"]]//img[@class="image"]/@src').getall()
+            ecom_item['disount_price'] = selector.xpath("//div[@class='pdp-product-price']//span[@class='pdp-product-price__discount']/text()").get()
             rating_score = selector.xpath("//div[@class='mod-rating']//div[@class='score']//span[@class='score-average']/text()").get()
             try:
                 rating_score = float(rating_score) if rating_score else None
@@ -3223,10 +3225,10 @@ class EcomspiderSpider(scrapy.Spider):
             ecom_item['response_time'] = ratings[2].css('.seller-info-value::text').get() if ratings[2] else None
             ecom_item['delivery_location'] = selector.xpath("//div[@class='delivery__header']/div/div/div/div[@class='location__address']/text()").get()
             ecom_item['delivery_content'] = selector.xpath("//div[@class='delivery__content']/div/div/div/div/div[@class='delivery-option-item__info']/div/text()").get()
-
+            ecom_item['out_of_stock'] = selector.xpath('//div[@class="sku-quantity-selection"]//span[@class="quantity-content-default"]/text()').get()
             ecom_item['return_policy'] = selector.xpath("//div[@class='warranty__option-item']//div[@class='delivery-option-item__title']/text()")[0].get()
             ecom_item['warranty_info'] = selector.xpath("//div[@class='warranty__option-item']//div[@class='delivery-option-item__title']/text()")[1].get()
-
+            ecom_item['color_image_url']= color_image_url
             ecom_item['rating_data'] = {
                 "rating_score": rating_score,
                 "total_ratings": total_score,
