@@ -1,0 +1,1841 @@
+[
+    {
+      "data": [
+        {
+          "maincategory": "Frozen Food",
+          "subcategory": "Other Frozen Food",
+          "url": "https://www.daraz.pk/other-frozen-food"
+        },
+        {
+          "maincategory": "Frozen Food",
+          "subcategory": "Chicken",
+          "url": "https://www.daraz.pk/groceries-frozen-meat-chicken"
+        },
+        {
+          "maincategory": "Frozen Food",
+          "subcategory": "Beef",
+          "url": "https://www.daraz.pk/groceries-frozen-meat-beef"
+        },
+        {
+          "maincategory": "Dog",
+          "subcategory": "Bowls & Feeders",
+          "url": "https://www.daraz.pk/dog-bowls-feeders"
+        },
+        {
+          "maincategory": "Dog",
+          "subcategory": "Beds, Mats & Houses",
+          "url": "https://www.daraz.pk/dog-beds-mats-houses"
+        },
+        {
+          "maincategory": "Dog",
+          "subcategory": "Cages, Crates & Doors",
+          "url": "https://www.daraz.pk/dog-cages-pens-doors"
+        },
+        {
+          "maincategory": "Dog",
+          "subcategory": "Fleas & Ticks",
+          "url": "https://www.daraz.pk/dog-flea-tick"
+        },
+        {
+          "maincategory": "Dog",
+          "subcategory": "Leashes, Collars & Muzzles",
+          "url": "https://www.daraz.pk/dog-leashes-collars-muzzles"
+        },
+        {
+          "maincategory": "Dog",
+          "subcategory": "Carriers & Travel",
+          "url": "https://www.daraz.pk/dog-carriers-travel"
+        },
+        {
+          "maincategory": "Dog",
+          "subcategory": "Treats",
+          "url": "https://www.daraz.pk/dog-treats"
+        },
+        {
+          "maincategory": "Dog",
+          "subcategory": "Food",
+          "url": "https://www.daraz.pk/dog-food"
+        },
+        {
+          "maincategory": "Dog",
+          "subcategory": "Grooming",
+          "url": "https://www.daraz.pk/dog-grooming-supplies"
+        },
+        {
+          "maincategory": "Dog",
+          "subcategory": "Toys",
+          "url": "https://www.daraz.pk/toys"
+        },
+        {
+          "maincategory": "Cat",
+          "subcategory": "Trees, Condos & Scratchers",
+          "url": "https://www.daraz.pk/cat-condo-tree-scratchers"
+        },
+        {
+          "maincategory": "Cat",
+          "subcategory": "Bowls & Feeders",
+          "url": "https://www.daraz.pk/cat-bowls-feeders"
+        },
+        {
+          "maincategory": "Cat",
+          "subcategory": "Beds, Mats & Houses",
+          "url": "https://www.daraz.pk/cat-beds-mats-houses"
+        },
+        {
+          "maincategory": "Cat",
+          "subcategory": "Cages, Crates & Doors",
+          "url": "https://www.daraz.pk/cat-cages-crates-doors"
+        },
+        {
+          "maincategory": "Cat",
+          "subcategory": "Carriers & Travel",
+          "url": "https://www.daraz.pk/cat-carriers-travel"
+        },
+        {
+          "maincategory": "Cat",
+          "subcategory": "Toys",
+          "url": "https://www.daraz.pk/cats-toys"
+        },
+        {
+          "maincategory": "Cat",
+          "subcategory": "Cat Treats",
+          "url": "https://www.daraz.pk/cat-treats"
+        },
+        {
+          "maincategory": "Cat",
+          "subcategory": "Grooming",
+          "url": "https://www.daraz.pk/cat-grooming-supplies"
+        },
+        {
+          "maincategory": "Cat",
+          "subcategory": "Food",
+          "url": "https://www.daraz.pk/cat-food"
+        },
+        {
+          "maincategory": "Cat",
+          "subcategory": "Litter & Toilet",
+          "url": "https://www.daraz.pk/cat-clean-up-toilets"
+        },
+        {
+          "maincategory": "Breakfast, Choco & Snacks",
+          "subcategory": "Cakes & Sweets",
+          "url": "https://www.daraz.pk/groceries-bakery-cakes-sweet-pies-cakes"
+        },
+        {
+          "maincategory": "Breakfast, Choco & Snacks",
+          "subcategory": "Jams, Honey & Spreads",
+          "url": "https://www.daraz.pk/groceries-breakfast-jams-honey-spreads"
+        },
+        {
+          "maincategory": "Breakfast, Choco & Snacks",
+          "subcategory": "Oatmeals",
+          "url": "https://www.daraz.pk/oats-porridge"
+        },
+        {
+          "maincategory": "Breakfast, Choco & Snacks",
+          "subcategory": "Breakfast Cereals",
+          "url": "https://www.daraz.pk/cereal"
+        },
+        {
+          "maincategory": "Breakfast, Choco & Snacks",
+          "subcategory": "Pancake & Waffle Mixes",
+          "url": "https://www.daraz.pk/pancake-waffle-mixes"
+        },
+        {
+          "maincategory": "Breakfast, Choco & Snacks",
+          "subcategory": "Breakfast Bars",
+          "url": "https://www.daraz.pk/protein-bars"
+        },
+        {
+          "maincategory": "Breakfast, Choco & Snacks",
+          "subcategory": "Instant Breakfast Drinks",
+          "url": "https://www.daraz.pk/instant-breakfast-drinks"
+        },
+        {
+          "maincategory": "Breakfast, Choco & Snacks",
+          "subcategory": "Nuts & Legumes",
+          "url": "https://www.daraz.pk/nuts-2"
+        },
+        {
+          "maincategory": "Breakfast, Choco & Snacks",
+          "subcategory": "Biscuit & Cookies",
+          "url": "https://www.daraz.pk/biscuits-cookies"
+        },
+        {
+          "maincategory": "Breakfast, Choco & Snacks",
+          "subcategory": "Chocolate & Candy",
+          "url": "https://www.daraz.pk/chocolates"
+        },
+        {
+          "maincategory": "Breakfast, Choco & Snacks",
+          "subcategory": "Chewing Gums & Mints",
+          "url": "https://www.daraz.pk/chewing-bubble-gum"
+        },
+        {
+          "maincategory": "Breakfast, Choco & Snacks",
+          "subcategory": "Chips & Crisps",
+          "url": "https://www.daraz.pk/chips-crisps"
+        },
+        {
+          "maincategory": "Beverages",
+          "subcategory": "Soft Drinks",
+          "url": "https://www.daraz.pk/groceries-beverages-soft-drinks"
+        },
+        {
+          "maincategory": "Beverages",
+          "subcategory": "Water",
+          "url": "https://www.daraz.pk/groceries-beverages-water"
+        },
+        {
+          "maincategory": "Beverages",
+          "subcategory": "UHT, Milk & Milk Powder",
+          "url": "https://www.daraz.pk/groceries-beverages-uht-milk-milk-powder"
+        },
+        {
+          "maincategory": "Beverages",
+          "subcategory": "Juices",
+          "url": "https://www.daraz.pk/groceries-beverages-juices"
+        },
+        {
+          "maincategory": "Beverages",
+          "subcategory": "Coffee",
+          "url": "https://www.daraz.pk/coffee-espresso"
+        },
+        {
+          "maincategory": "Beverages",
+          "subcategory": "Powdered Drinks",
+          "url": "https://www.daraz.pk/milk-powder-and-milk-modifiers"
+        },
+        {
+          "maincategory": "Beverages",
+          "subcategory": "Tea",
+          "url": "https://www.daraz.pk/tea"
+        },
+        {
+          "maincategory": "Beverages",
+          "subcategory": "Flavoring Syrup",
+          "url": "https://www.daraz.pk/syrups"
+        },
+        {
+          "maincategory": "Food Staples",
+          "subcategory": "Condiment Dressing",
+          "url": "https://www.daraz.pk/condiment-dressing"
+        },
+        {
+          "maincategory": "Food Staples",
+          "subcategory": "Home Baking & Sugar",
+          "url": "https://www.daraz.pk/groceries-baking-cooking-home-baking-sugar"
+        },
+        {
+          "maincategory": "Food Staples",
+          "subcategory": "Cooking Ingredients",
+          "url": "https://www.daraz.pk/groceries-baking-cooking-cooking-ingredients"
+        },
+        {
+          "maincategory": "Food Staples",
+          "subcategory": "Noodles & Pasta",
+          "url": "https://www.daraz.pk/noodles"
+        },
+        {
+          "maincategory": "Food Staples",
+          "subcategory": "Jarred Food",
+          "url": "https://www.daraz.pk/groceries-canned-dry-packaged-food-jarred-food"
+        },
+        {
+          "maincategory": "Food Staples",
+          "subcategory": "Canned Food",
+          "url": "https://www.daraz.pk/groceries-canned-dry-packaged-food-canned-food"
+        },
+        {
+          "maincategory": "Food Staples",
+          "subcategory": "Instant & Ready-to-Eat",
+          "url": "https://www.daraz.pk/groceries-canned-dry-packaged-food-instant-ready-to-eat"
+        },
+        {
+          "maincategory": "Food Staples",
+          "subcategory": "Grains, Beans & Pulses",
+          "url": "https://www.daraz.pk/groceries-canned-dry-packaged-food-grains-beans-pulses"
+        },
+        {
+          "maincategory": "Food Staples",
+          "subcategory": "Rice",
+          "url": "https://www.daraz.pk/rice"
+        },
+        {
+          "maincategory": "Food Staples",
+          "subcategory": "Oil",
+          "url": "https://www.daraz.pk/oil-ghee"
+        },
+        {
+          "maincategory": "Laundry & Household",
+          "subcategory": "Laundry",
+          "url": "https://www.daraz.pk/laundry-products"
+        },
+        {
+          "maincategory": "Laundry & Household",
+          "subcategory": "Pest Control",
+          "url": "https://www.daraz.pk/groceries-laundry-household-pest-control"
+        },
+        {
+          "maincategory": "Laundry & Household",
+          "subcategory": "Tissue Paper",
+          "url": "https://www.daraz.pk/groceries-laundry-household-paper-towels"
+        },
+        {
+          "maincategory": "Laundry & Household",
+          "subcategory": "Air Fresheners",
+          "url": "https://www.daraz.pk/groceries-laundry-household-air-fresheners"
+        },
+        {
+          "maincategory": "Laundry & Household",
+          "subcategory": "Cleaning Supplies",
+          "url": "https://www.daraz.pk/cleaning-supplies"
+        },
+        {
+          "maincategory": "Men's Care",
+          "subcategory": "Shaving & Grooming",
+          "url": "https://www.daraz.pk/mens-shaving-grooming"
+        },
+        {
+          "maincategory": "Medical Supplies",
+          "subcategory": "Stethoscopes",
+          "url": "https://www.daraz.pk/stethoscopes"
+        },
+        {
+          "maincategory": "Medical Supplies",
+          "subcategory": "Surgical Masks",
+          "url": "https://www.daraz.pk/surgical-masks"
+        },
+        {
+          "maincategory": "Medical Supplies",
+          "subcategory": "Health Monitors & Tests",
+          "url": "https://www.daraz.pk/health-monitors-tests"
+        },
+        {
+          "maincategory": "Medical Supplies",
+          "subcategory": "Ointments and Creams",
+          "url": "https://www.daraz.pk/ointments-creams"
+        },
+        {
+          "maincategory": "Medical Supplies",
+          "subcategory": "Nebulizer & Aspirators",
+          "url": "https://www.daraz.pk/nebulizers"
+        },
+        {
+          "maincategory": "Medical Supplies",
+          "subcategory": "Health Accessories",
+          "url": "https://www.daraz.pk/health-aid-supplies"
+        },
+        {
+          "maincategory": "Medical Supplies",
+          "subcategory": "First Aid Supplies",
+          "url": "https://www.daraz.pk/first-aid-supplies"
+        },
+        {
+          "maincategory": "Personal Care",
+          "subcategory": "Adult Diapers",
+          "url": "https://www.daraz.pk/adult-diapers-incontinence"
+        },
+        {
+          "maincategory": "Personal Care",
+          "subcategory": "Oral Care",
+          "url": "https://www.daraz.pk/oral-care-products"
+        },
+        {
+          "maincategory": "Personal Care",
+          "subcategory": "Eye Care",
+          "url": "https://www.daraz.pk/eye-creams"
+        },
+        {
+          "maincategory": "Personal Care",
+          "subcategory": "Pads & Tampons",
+          "url": "https://www.daraz.pk/tampons"
+        },
+        {
+          "maincategory": "Personal Care",
+          "subcategory": "Menstrual Cups",
+          "url": "https://www.daraz.pk/tampons"
+        },
+        {
+          "maincategory": "Personal Care",
+          "subcategory": "Deodorants",
+          "url": "https://www.daraz.pk/deodorants"
+        },
+        {
+          "maincategory": "Personal Care",
+          "subcategory": "Personal Safety & Security",
+          "url": "https://www.daraz.pk/personal-safety-security"
+        },
+        {
+          "maincategory": "Personal Care",
+          "subcategory": "Ear Care",
+          "url": "https://www.daraz.pk/ear-care"
+        },
+        {
+          "maincategory": "Hair Care",
+          "subcategory": "Oil & Serums",
+          "url": "https://www.daraz.pk/hair%20care-hair-oils-322"
+        },
+        {
+          "maincategory": "Hair Care",
+          "subcategory": "Hair Care Accessories",
+          "url": "https://www.daraz.pk/hair-care-accessories"
+        },
+        {
+          "maincategory": "Hair Care",
+          "subcategory": "Shampoo & Conditioner",
+          "url": "https://www.daraz.pk/hair-shampoo"
+        },
+        {
+          "maincategory": "Hair Care",
+          "subcategory": "Hair Treatments",
+          "url": "https://www.daraz.pk/treatments"
+        },
+        {
+          "maincategory": "Hair Care",
+          "subcategory": "Hair Styling",
+          "url": "https://www.daraz.pk/hair-styling"
+        },
+        {
+          "maincategory": "Hair Care",
+          "subcategory": "Hair Coloring",
+          "url": "https://www.daraz.pk/hair-color"
+        },
+        {
+          "maincategory": "Beauty Tools",
+          "subcategory": "Foot Relief Tools",
+          "url": "https://www.daraz.pk/foot-relief"
+        },
+        {
+          "maincategory": "Beauty Tools",
+          "subcategory": "Slimming & Electric Massagers",
+          "url": "https://www.daraz.pk/massage-relaxation"
+        },
+        {
+          "maincategory": "Beauty Tools",
+          "subcategory": "Hair Removal Appliances",
+          "url": "https://www.daraz.pk/hair-removal-appliances"
+        },
+        {
+          "maincategory": "Beauty Tools",
+          "subcategory": "Hair Styling Appliances",
+          "url": "https://www.daraz.pk/hair-styling-appliances"
+        },
+        {
+          "maincategory": "Beauty Tools",
+          "subcategory": "Skin Care Tools",
+          "url": "https://www.daraz.pk/hb-skin-care-tools"
+        },
+        {
+          "maincategory": "Makeup",
+          "subcategory": "Bulk Deals",
+          "url": "https://www.daraz.pk/makeup-bulk-deals"
+        },
+        {
+          "maincategory": "Makeup",
+          "subcategory": "Eyes",
+          "url": "https://www.daraz.pk/eye-makeup"
+        },
+        {
+          "maincategory": "Makeup",
+          "subcategory": "Makeup Accessories",
+          "url": "https://www.daraz.pk/makeup-accessories"
+        },
+        {
+          "maincategory": "Makeup",
+          "subcategory": "Lips",
+          "url": "https://www.daraz.pk/lips"
+        },
+        {
+          "maincategory": "Makeup",
+          "subcategory": "Nails",
+          "url": "https://www.daraz.pk/nails-makeup"
+        },
+        {
+          "maincategory": "Makeup",
+          "subcategory": "Makeup Removers",
+          "url": "https://www.daraz.pk/womens-make-up-remover"
+        },
+        {
+          "maincategory": "Makeup",
+          "subcategory": "Makeup Palettes & Sets",
+          "url": "https://www.daraz.pk/makeup-kits-palettes"
+        },
+        {
+          "maincategory": "Makeup",
+          "subcategory": "Face",
+          "url": "https://www.daraz.pk/blush"
+        },
+        {
+          "maincategory": "Fragrances",
+          "subcategory": "Women",
+          "url": "https://www.daraz.pk/womens-fragrance"
+        },
+        {
+          "maincategory": "Fragrances",
+          "subcategory": "Men",
+          "url": "https://www.daraz.pk/mens-fragrance"
+        },
+        {
+          "maincategory": "Fragrances",
+          "subcategory": "Unisex",
+          "url": "https://www.daraz.pk/unisex-fragrance"
+        },
+        {
+          "maincategory": "Bath & Body",
+          "subcategory": "Hand Care",
+          "url": "https://www.daraz.pk/hand-care"
+        },
+        {
+          "maincategory": "Bath & Body",
+          "subcategory": "Talcum Powder",
+          "url": "https://www.daraz.pk/womans-hygiene-talcum-powder"
+        },
+        {
+          "maincategory": "Bath & Body",
+          "subcategory": "Foot Care",
+          "url": "https://www.daraz.pk/foot-care"
+        },
+        {
+          "maincategory": "Bath & Body",
+          "subcategory": "Body Moisturizers",
+          "url": "https://www.daraz.pk/body-lotion-butter"
+        },
+        {
+          "maincategory": "Bath & Body",
+          "subcategory": "Hair Removal",
+          "url": "https://www.daraz.pk/hair-removal-tools"
+        },
+        {
+          "maincategory": "Bath & Body",
+          "subcategory": "Body Soaps & Shower Gels",
+          "url": "https://www.daraz.pk/soaps-wash"
+        },
+        {
+          "maincategory": "Bath & Body",
+          "subcategory": "Body Scrubs",
+          "url": "https://www.daraz.pk/body-wash-scrubs"
+        },
+        {
+          "maincategory": "Bath & Body",
+          "subcategory": "Bath & Body Accessories",
+          "url": "https://www.daraz.pk/bath-body-accessories"
+        },
+        {
+          "maincategory": "Bath & Body",
+          "subcategory": "Body & Massage Oils",
+          "url": "https://www.daraz.pk/body-oils"
+        },
+        {
+          "maincategory": "Sexual Wellness",
+          "subcategory": "Lubricants",
+          "url": "https://www.daraz.pk/lubricants-sexual-health"
+        },
+        {
+          "maincategory": "Sexual Wellness",
+          "subcategory": "Condoms",
+          "url": "https://www.daraz.pk/shop-condoms"
+        },
+        {
+          "maincategory": "Skin Care",
+          "subcategory": "Moisturizers and Cream",
+          "url": "https://www.daraz.pk/moisturizers-creams"
+        },
+        {
+          "maincategory": "Skin Care",
+          "subcategory": "Lip Balm & Treatment",
+          "url": "https://www.daraz.pk/lip-balms-treatments"
+        },
+        {
+          "maincategory": "Skin Care",
+          "subcategory": "Sunscreen & Aftersun",
+          "url": "https://www.daraz.pk/mens-sun-care"
+        },
+        {
+          "maincategory": "Skin Care",
+          "subcategory": "Face Mask & Packs",
+          "url": "https://www.daraz.pk/facial-masks-peels"
+        },
+        {
+          "maincategory": "Skin Care",
+          "subcategory": "Face Scrubs & Exfoliators",
+          "url": "https://www.daraz.pk/mens-face"
+        },
+        {
+          "maincategory": "Skin Care",
+          "subcategory": "Facial Cleansers",
+          "url": "https://www.daraz.pk/face-wash"
+        },
+        {
+          "maincategory": "Skin Care",
+          "subcategory": "Toner & Mists",
+          "url": "https://www.daraz.pk/toner"
+        },
+        {
+          "maincategory": "Skin Care",
+          "subcategory": "Anti-aging",
+          "url": "https://www.daraz.pk/anti-aging"
+        },
+        {
+          "maincategory": "Clothing & Accessories",
+          "subcategory": "Newborn",
+          "url": "https://www.daraz.pk/new-born-baby-clothing"
+        },
+        {
+          "maincategory": "Clothing & Accessories",
+          "subcategory": "Accessories",
+          "url": "https://www.daraz.pk/new-born-baby-clothing-accessories"
+        },
+        {
+          "maincategory": "Clothing & Accessories",
+          "subcategory": "New born sets & Packs",
+          "url": "https://www.daraz.pk/sets-packs"
+        },
+        {
+          "maincategory": "Clothing & Accessories",
+          "subcategory": "Girls (Under 3 Years)",
+          "url": "https://www.daraz.pk/baby-girls-clothing-and-accessories"
+        },
+        {
+          "maincategory": "Clothing & Accessories",
+          "subcategory": "Boys (Under 3 Years)",
+          "url": "https://www.daraz.pk/baby-boys-clothing-and-accessories"
+        },
+        {
+          "maincategory": "Clothing & Accessories",
+          "subcategory": "New born bodysuits",
+          "url": "https://www.daraz.pk/boys-jumpsuits-rompers"
+        },
+        {
+          "maincategory": "Maternity Care",
+          "subcategory": "Pregnancy Pillows",
+          "url": "https://www.daraz.pk/maternity-pregnancy-pillows"
+        },
+        {
+          "maincategory": "Maternity Care",
+          "subcategory": "Maternity Accessories",
+          "url": "https://www.daraz.pk/baby-toddler-maternity-accessories"
+        },
+        {
+          "maincategory": "Maternity Care",
+          "subcategory": "Breast Pumps",
+          "url": "https://www.daraz.pk/breast-pumps"
+        },
+        {
+          "maincategory": "Maternity Care",
+          "subcategory": "Nursing Covers",
+          "url": "https://www.daraz.pk/nursing-covers"
+        },
+        {
+          "maincategory": "Maternity Care",
+          "subcategory": "Maternity Wear",
+          "url": "https://www.daraz.pk/maternity-care-wear"
+        },
+        {
+          "maincategory": "Maternity Care",
+          "subcategory": "Nipple Care",
+          "url": "https://www.daraz.pk/nipple-care"
+        },
+        {
+          "maincategory": "Maternity Care",
+          "subcategory": "Breast Shells",
+          "url": "https://www.daraz.pk/breast-shells-creams"
+        },
+        {
+          "maincategory": "Baby Gear",
+          "subcategory": "Backpacks & Carriers",
+          "url": "https://www.daraz.pk/baby-toddler-carriers"
+        },
+        {
+          "maincategory": "Baby Gear",
+          "subcategory": "Swings, Jumpers & Bouncers",
+          "url": "https://www.daraz.pk/baby-walkers"
+        },
+        {
+          "maincategory": "Baby Gear",
+          "subcategory": "Harnesses & Leashes",
+          "url": "https://www.daraz.pk/baby-harnesses-leashes"
+        },
+        {
+          "maincategory": "Baby Gear",
+          "subcategory": "Walkers",
+          "url": "https://www.daraz.pk/baby-toddler-walkers"
+        },
+        {
+          "maincategory": "Baby Gear",
+          "subcategory": "Car Seats",
+          "url": "https://www.daraz.pk/baby-car-seats"
+        },
+        {
+          "maincategory": "Baby Gear",
+          "subcategory": "Strollers",
+          "url": "https://www.daraz.pk/baby-toddler-strollers"
+        },
+        {
+          "maincategory": "Baby Gear",
+          "subcategory": "Highchairs & Booster Seats",
+          "url": "https://www.daraz.pk/high-chairs"
+        },
+        {
+          "maincategory": "Baby Gear",
+          "subcategory": "Baby Safety",
+          "url": "https://www.daraz.pk/baby-safety"
+        },
+        {
+          "maincategory": "Baby Gear",
+          "subcategory": "Baby Monitor",
+          "url": "https://www.daraz.pk/baby-toddler-monitors"
+        },
+        {
+          "maincategory": "Baby Gear",
+          "subcategory": "Kids Bag",
+          "url": "https://www.daraz.pk/boys-bags"
+        },
+        {
+          "maincategory": "Remote Control & Vehicles",
+          "subcategory": "Play Vehicles",
+          "url": "https://www.daraz.pk/play-vehicles-toys"
+        },
+        {
+          "maincategory": "Remote Control & Vehicles",
+          "subcategory": "RC Vehicles & Batteries",
+          "url": "https://www.daraz.pk/vehicles-batteries"
+        },
+        {
+          "maincategory": "Remote Control & Vehicles",
+          "subcategory": "Drones & Accessories",
+          "url": "https://www.daraz.pk/drones-and-accessories"
+        },
+        {
+          "maincategory": "Remote Control & Vehicles",
+          "subcategory": "Die-Cast Vehicles",
+          "url": "https://www.daraz.pk/die-cast-cars"
+        },
+        {
+          "maincategory": "Remote Control & Vehicles",
+          "subcategory": "Play Trains & Railway Sets",
+          "url": "https://www.daraz.pk/model-railway-and-train-sets"
+        },
+        {
+          "maincategory": "Feeding",
+          "subcategory": "Bottle-Feeding",
+          "url": "https://www.daraz.pk/bottle-feeding"
+        },
+        {
+          "maincategory": "Feeding",
+          "subcategory": "Breastfeeding",
+          "url": "https://www.daraz.pk/breast-feeding"
+        },
+        {
+          "maincategory": "Feeding",
+          "subcategory": "Food Blenders",
+          "url": "https://www.daraz.pk/baby-food-blenders"
+        },
+        {
+          "maincategory": "Feeding",
+          "subcategory": "Utensils",
+          "url": "https://www.daraz.pk/baby-utensils"
+        },
+        {
+          "maincategory": "Feeding",
+          "subcategory": "Pacifiers & Teethers",
+          "url": "https://www.daraz.pk/baby-pacifiers-accessories"
+        },
+        {
+          "maincategory": "Milk Formula & Baby Food",
+          "subcategory": "Toddler Milk (1 - under 3 yrs)",
+          "url": "https://www.daraz.pk/toddler-milk"
+        },
+        {
+          "maincategory": "Milk Formula & Baby Food",
+          "subcategory": "Maternal",
+          "url": "https://www.daraz.pk/maternal-milk"
+        },
+        {
+          "maincategory": "Milk Formula & Baby Food",
+          "subcategory": "Infant Milk (0-6 Months)",
+          "url": "https://www.daraz.pk/milk-formula"
+        },
+        {
+          "maincategory": "Milk Formula & Baby Food",
+          "subcategory": "Infant Milk (6-12 Months)",
+          "url": "https://www.daraz.pk/followon-milk-formula"
+        },
+        {
+          "maincategory": "Milk Formula & Baby Food",
+          "subcategory": "Growing-up Milk (3yrs +)",
+          "url": "https://www.daraz.pk/growth-milk"
+        },
+        {
+          "maincategory": "Milk Formula & Baby Food",
+          "subcategory": "Baby & Toddler Foods",
+          "url": "https://www.daraz.pk/baby-n-toddler-food"
+        },
+        {
+          "maincategory": "Diapering & Potty",
+          "subcategory": "Disposable diapers",
+          "url": "https://www.daraz.pk/baby-diapers"
+        },
+        {
+          "maincategory": "Diapering & Potty",
+          "subcategory": "Diaper Bags",
+          "url": "https://www.daraz.pk/diaper-bags"
+        },
+        {
+          "maincategory": "Diapering & Potty",
+          "subcategory": "Diapering Care",
+          "url": "https://www.daraz.pk/diapering-care"
+        },
+        {
+          "maincategory": "Diapering & Potty",
+          "subcategory": "Changing Tables, Pads & Kits",
+          "url": "https://www.daraz.pk/baby-changing"
+        },
+        {
+          "maincategory": "Diapering & Potty",
+          "subcategory": "Cloth Diapers & Accessories",
+          "url": "https://www.daraz.pk/cloth-diapers-and-accessories"
+        },
+        {
+          "maincategory": "Diapering & Potty",
+          "subcategory": "Wipes & Holders",
+          "url": "https://www.daraz.pk/wipes-holders"
+        },
+        {
+          "maincategory": "Diapering & Potty",
+          "subcategory": "Potty Training",
+          "url": "https://www.daraz.pk/potty-training"
+        },
+        {
+          "maincategory": "Nursery",
+          "subcategory": "Storage & Organization",
+          "url": "https://www.daraz.pk/storage-organization"
+        },
+        {
+          "maincategory": "Nursery",
+          "subcategory": "Nursery Decor",
+          "url": "https://www.daraz.pk/nursery-decor"
+        },
+        {
+          "maincategory": "Nursery",
+          "subcategory": "Baby Furniture",
+          "url": "https://www.daraz.pk/baby-furniture"
+        },
+        {
+          "maincategory": "Nursery",
+          "subcategory": "Mattresses & Bedding",
+          "url": "https://www.daraz.pk/mattresses-bedding"
+        },
+        {
+          "maincategory": "Sports & Outdoor Play",
+          "subcategory": "Inflatable Bouncers",
+          "url": "https://www.daraz.pk/inflatable-bouncers"
+        },
+        {
+          "maincategory": "Sports & Outdoor Play",
+          "subcategory": "Fidget Spinners",
+          "url": "https://www.daraz.pk/fidget-spinners"
+        },
+        {
+          "maincategory": "Sports & Outdoor Play",
+          "subcategory": "Swimming Pool & Water Toys",
+          "url": "https://www.daraz.pk/swimming-pool-and-water-toys"
+        },
+        {
+          "maincategory": "Baby & Toddler Toys",
+          "subcategory": "Developmental Toys",
+          "url": "https://www.daraz.pk/developmental-toys"
+        },
+        {
+          "maincategory": "Baby & Toddler Toys",
+          "subcategory": "Plush Toys",
+          "url": "https://www.daraz.pk/plush-toys"
+        },
+        {
+          "maincategory": "Baby & Toddler Toys",
+          "subcategory": "Musical Toys",
+          "url": "https://www.daraz.pk/musical-toys"
+        },
+        {
+          "maincategory": "Laundry & Cleaning",
+          "subcategory": "Brushes, Sponges & Wipers",
+          "url": "https://www.daraz.pk/household-supplies"
+        },
+        {
+          "maincategory": "Laundry & Cleaning",
+          "subcategory": "Brooms, Mops & Sweepers",
+          "url": "https://www.daraz.pk/mops-refills-mop-sets"
+        },
+        {
+          "maincategory": "Laundry & Cleaning",
+          "subcategory": "Clothes Line & Drying Racks",
+          "url": "https://www.daraz.pk/pegs-clothes-lines"
+        },
+        {
+          "maincategory": "Laundry & Cleaning",
+          "subcategory": "Ironing Boards",
+          "url": "https://www.daraz.pk/ironing-boards-covers"
+        },
+        {
+          "maincategory": "Laundry & Cleaning",
+          "subcategory": "Laundry Baskets & Hampers",
+          "url": "https://www.daraz.pk/bathroom-baskets-trays"
+        },
+        {
+          "maincategory": "Tools, DIY & Outdoor",
+          "subcategory": "Paints",
+          "url": "https://www.daraz.pk/paints"
+        },
+        {
+          "maincategory": "Tools, DIY & Outdoor",
+          "subcategory": "Fixtures & Plumbing",
+          "url": "https://www.daraz.pk/plumbing"
+        },
+        {
+          "maincategory": "Tools, DIY & Outdoor",
+          "subcategory": "Lawn & Garden",
+          "url": "https://www.daraz.pk/lawn-garden"
+        },
+        {
+          "maincategory": "Tools, DIY & Outdoor",
+          "subcategory": "Power Tools",
+          "url": "https://www.daraz.pk/power-tools"
+        },
+        {
+          "maincategory": "Tools, DIY & Outdoor",
+          "subcategory": "Security",
+          "url": "https://www.daraz.pk/security-system-hardware"
+        },
+        {
+          "maincategory": "Tools, DIY & Outdoor",
+          "subcategory": "Electrical",
+          "url": "https://www.daraz.pk/electrical-equipment"
+        },
+        {
+          "maincategory": "Tools, DIY & Outdoor",
+          "subcategory": "Primers",
+          "url": "https://www.daraz.pk/supplies-paints"
+        },
+        {
+          "maincategory": "Tools, DIY & Outdoor",
+          "subcategory": "Hand Tools",
+          "url": "https://www.daraz.pk/engine-hand-tools"
+        },
+        {
+          "maincategory": "Tools, DIY & Outdoor",
+          "subcategory": "Home Build Up",
+          "url": "https://www.daraz.pk/home-build-up"
+        },
+        {
+          "maincategory": "Bath",
+          "subcategory": "Bathroom Scales",
+          "url": "https://www.daraz.pk/bathroom-scales"
+        },
+        {
+          "maincategory": "Bath",
+          "subcategory": "Towel Rails & Warmers",
+          "url": "https://www.daraz.pk/bathroom-towel-racks-warmers"
+        },
+        {
+          "maincategory": "Bath",
+          "subcategory": "Shower Caddies & Hangers",
+          "url": "https://www.daraz.pk/shower-holders-hangers"
+        },
+        {
+          "maincategory": "Bath",
+          "subcategory": "Bathroom Shelving",
+          "url": "https://www.daraz.pk/shower-curtains"
+        },
+        {
+          "maincategory": "Bath",
+          "subcategory": "Bath Towels",
+          "url": "https://www.daraz.pk/bath-towels"
+        },
+        {
+          "maincategory": "Bath",
+          "subcategory": "Bathrobes",
+          "url": "https://www.daraz.pk/bathrobes"
+        },
+        {
+          "maincategory": "Bath",
+          "subcategory": "Bath Mats",
+          "url": "https://www.daraz.pk/bath-mats-rugs"
+        },
+        {
+          "maincategory": "Stationery & Craft",
+          "subcategory": "Paper Products",
+          "url": "https://www.daraz.pk/paper-products"
+        },
+        {
+          "maincategory": "Stationery & Craft",
+          "subcategory": "Writing & Correction",
+          "url": "https://www.daraz.pk/writing-utensils"
+        },
+        {
+          "maincategory": "Stationery & Craft",
+          "subcategory": "Art Supplies",
+          "url": "https://www.daraz.pk/art-supplies"
+        },
+        {
+          "maincategory": "Stationery & Craft",
+          "subcategory": "Packaging & Cartons",
+          "url": "https://www.daraz.pk/packaging-products"
+        },
+        {
+          "maincategory": "Stationery & Craft",
+          "subcategory": "School & Office Equipment",
+          "url": "https://www.daraz.pk/school-supplies"
+        },
+        {
+          "maincategory": "Stationery & Craft",
+          "subcategory": "Gifts & Wrapping",
+          "url": "https://www.daraz.pk/gifts-wrapping"
+        },
+        {
+          "maincategory": "Stationery & Craft",
+          "subcategory": "School Uniforms",
+          "url": "https://www.daraz.pk/school-uniforms"
+        },
+        {
+          "maincategory": "Furniture",
+          "subcategory": "Kitchen Furniture",
+          "url": "https://www.daraz.pk/kitchen-dining-furniture"
+        },
+        {
+          "maincategory": "Furniture",
+          "subcategory": "Gaming Furniture",
+          "url": "https://www.daraz.pk/game-room-furniture"
+        },
+        {
+          "maincategory": "Furniture",
+          "subcategory": "Home Office",
+          "url": "https://www.daraz.pk/office-furniture"
+        },
+        {
+          "maincategory": "Furniture",
+          "subcategory": "Living Room",
+          "url": "https://www.daraz.pk/living-room-furniture"
+        },
+        {
+          "maincategory": "Furniture",
+          "subcategory": "Bedroom",
+          "url": "https://www.daraz.pk/bedroom-furniture"
+        },
+        {
+          "maincategory": "Bedding",
+          "subcategory": "Comforters, Quilts & Duvets",
+          "url": "https://www.daraz.pk/comforters-quilts"
+        },
+        {
+          "maincategory": "Bedding",
+          "subcategory": "Blankets & Throws",
+          "url": "https://www.daraz.pk/blankets-throws"
+        },
+        {
+          "maincategory": "Bedding",
+          "subcategory": "Pillows & Bolsters",
+          "url": "https://www.daraz.pk/anti-allergy-pillows"
+        },
+        {
+          "maincategory": "Bedding",
+          "subcategory": "Pillow Cases",
+          "url": "https://www.daraz.pk/pillows"
+        },
+        {
+          "maincategory": "Bedding",
+          "subcategory": "Bedding Accessories",
+          "url": "https://www.daraz.pk/bedding-accessories"
+        },
+        {
+          "maincategory": "Bedding",
+          "subcategory": "Bed Sheets",
+          "url": "https://www.daraz.pk/bedsheets"
+        },
+        {
+          "maincategory": "Bedding",
+          "subcategory": "Mattress Protectors",
+          "url": "https://www.daraz.pk/bedding-mattress-pads-protectors"
+        },
+        {
+          "maincategory": "Decor",
+          "subcategory": "Mirrors",
+          "url": "https://www.daraz.pk/mirrors"
+        },
+        {
+          "maincategory": "Decor",
+          "subcategory": "Cushions & Covers",
+          "url": "https://www.daraz.pk/cushions"
+        },
+        {
+          "maincategory": "Decor",
+          "subcategory": "Rugs & Carpets",
+          "url": "https://www.daraz.pk/carpets-rugs"
+        },
+        {
+          "maincategory": "Decor",
+          "subcategory": "Wall Stickers & Decals",
+          "url": "https://www.daraz.pk/wall-stickers"
+        },
+        {
+          "maincategory": "Decor",
+          "subcategory": "Curtains",
+          "url": "https://www.daraz.pk/curtains-blinds-shades"
+        },
+        {
+          "maincategory": "Decor",
+          "subcategory": "Artificial Flowers & Plants",
+          "url": "https://www.daraz.pk/artificial-flowers-plants"
+        },
+        {
+          "maincategory": "Decor",
+          "subcategory": "Candles & Candleholders",
+          "url": "https://www.daraz.pk/candles-candle-holders"
+        },
+        {
+          "maincategory": "Decor",
+          "subcategory": "Clocks",
+          "url": "https://www.daraz.pk/clocks"
+        },
+        {
+          "maincategory": "Decor",
+          "subcategory": "Vases & Vessels",
+          "url": "https://www.daraz.pk/vases"
+        },
+        {
+          "maincategory": "Decor",
+          "subcategory": "Picture Frames",
+          "url": "https://www.daraz.pk/picture-frames"
+        },
+        {
+          "maincategory": "Lighting",
+          "subcategory": "Wall Lights & Sconces",
+          "url": "https://www.daraz.pk/wall-lights"
+        },
+        {
+          "maincategory": "Lighting",
+          "subcategory": "Ceiling Lights",
+          "url": "https://www.daraz.pk/ceiling-lights"
+        },
+        {
+          "maincategory": "Lighting",
+          "subcategory": "Lighting Fixtures & Components",
+          "url": "https://www.daraz.pk/lighting-components"
+        },
+        {
+          "maincategory": "Lighting",
+          "subcategory": "Light Bulbs",
+          "url": "https://www.daraz.pk/lighting-bulbs"
+        },
+        {
+          "maincategory": "Lighting",
+          "subcategory": "Lamp Shades",
+          "url": "https://www.daraz.pk/bedside-lamps"
+        },
+        {
+          "maincategory": "Lighting",
+          "subcategory": "Outdoor Lighting",
+          "url": "https://www.daraz.pk/outdoor-lighting"
+        },
+        {
+          "maincategory": "Lighting",
+          "subcategory": "Table Lamps",
+          "url": "https://www.daraz.pk/table-lamps"
+        },
+        {
+          "maincategory": "Lighting",
+          "subcategory": "Floor Lamps",
+          "url": "https://www.daraz.pk/floor-lamps"
+        },
+        {
+          "maincategory": "Media, Music & Books",
+          "subcategory": "eBooks",
+          "url": "https://www.daraz.pk/ebooks"
+        },
+        {
+          "maincategory": "Media, Music & Books",
+          "subcategory": "Music",
+          "url": "https://www.daraz.pk/music"
+        },
+        {
+          "maincategory": "Media, Music & Books",
+          "subcategory": "Movies & TV Shows",
+          "url": "https://www.daraz.pk/movies-tv"
+        },
+        {
+          "maincategory": "Media, Music & Books",
+          "subcategory": "Board Games",
+          "url": "https://www.daraz.pk/board-games"
+        },
+        {
+          "maincategory": "Media, Music & Books",
+          "subcategory": "Books",
+          "url": "https://www.daraz.pk/books"
+        },
+        {
+          "maincategory": "Toys, Kids & Babies",
+          "subcategory": "Toys",
+          "url": "https://www.daraz.pk/toys"
+        },
+        {
+          "maincategory": "Toys, Kids & Babies",
+          "subcategory": "Educational Toys",
+          "url": "https://www.daraz.pk/educational-toys"
+        },
+        {
+          "maincategory": "Toys, Kids & Babies",
+          "subcategory": "Games & Puzzles",
+          "url": "https://www.daraz.pk/puzzles"
+        },
+        {
+          "maincategory": "Toys, Kids & Babies",
+          "subcategory": "Kids Furniture",
+          "url": "https://www.daraz.pk/kids-room-furniture"
+        },
+        {
+          "maincategory": "Toys, Kids & Babies",
+          "subcategory": "Baby & Toddler",
+          "url": "https://www.daraz.pk/baby-products"
+        },
+        {
+          "maincategory": "Toys, Kids & Babies",
+          "subcategory": "Kids Clothing",
+          "url": "https://www.daraz.pk/kids-clothing"
+        },
+        {
+          "maincategory": "Daraz Like New",
+          "subcategory": "Like New Phones",
+          "url": "https://www.daraz.pk/like-new-phones"
+        },
+        {
+          "maincategory": "Daraz Like New",
+          "subcategory": "Like New Smartwatches",
+          "url": "https://www.daraz.pk/like_new_smartwatches"
+        },
+        {
+          "maincategory": "Daraz Like New",
+          "subcategory": "Like New Laptops",
+          "url": "https://www.daraz.pk/like-new-laptops"
+        },
+        {
+          "maincategory": "Daraz Like New",
+          "subcategory": "Like New Tablets",
+          "url": "https://www.daraz.pk/like-new-tablets"
+        },
+        {
+          "maincategory": "Daraz Like New",
+          "subcategory": "Like New Speakers",
+          "url": "https://www.daraz.pk/like-new-speakers"
+        },
+        {
+          "maincategory": "Daraz Like New",
+          "subcategory": "Like New Airbuds",
+          "url": "https://www.daraz.pk/like_new_airpods"
+        },
+        {
+          "maincategory": "Security Cameras",
+          "subcategory": "IP Security Cameras",
+          "url": "https://www.daraz.pk/security-surveillance"
+        },
+        {
+          "maincategory": "Gaming Consoles",
+          "subcategory": "Playstation Games",
+          "url": "https://www.daraz.pk/playstation-games"
+        },
+        {
+          "maincategory": "Gaming Consoles",
+          "subcategory": "PlayStation Consoles",
+          "url": "https://www.daraz.pk/playstation-consoles"
+        },
+        {
+          "maincategory": "Gaming Consoles",
+          "subcategory": "Playstation Controllers",
+          "url": "https://www.daraz.pk/gaming-controllers"
+        },
+        {
+          "maincategory": "Gaming Consoles",
+          "subcategory": "Nintendo Games",
+          "url": "https://www.daraz.pk/nintendo-games"
+        },
+        {
+          "maincategory": "Gaming Consoles",
+          "subcategory": "Xbox Games",
+          "url": "https://www.daraz.pk/xbox-games"
+        },
+        {
+          "maincategory": "Smart Phones",
+          "subcategory": "Nokia Mobiles",
+          "url": "https://www.daraz.pk/smartphones/nokia"
+        },
+        {
+          "maincategory": "Smart Phones",
+          "subcategory": "Honor Mobiles",
+          "url": "https://www.daraz.pk/smartphones/honor"
+        },
+        {
+          "maincategory": "Smart Phones",
+          "subcategory": "Infinix Mobiles",
+          "url": "https://www.daraz.pk/smartphones/infinix"
+        },
+        {
+          "maincategory": "Smart Phones",
+          "subcategory": "Realme Mobiles",
+          "url": "https://www.daraz.pk/smartphones/realme"
+        },
+        {
+          "maincategory": "Smart Phones",
+          "subcategory": "Redmi Mobiles",
+          "url": "https://www.daraz.pk/smartphones/redmi"
+        },
+        {
+          "maincategory": "Smart Phones",
+          "subcategory": "Oneplus Mobiles",
+          "url": "https://www.daraz.pk/catalog/?q=oneplus&_keyori=ss&from=input"
+        },
+        {
+          "maincategory": "Smart Phones",
+          "subcategory": "Oppo Mobile Phones",
+          "url": "https://www.daraz.pk/smartphones/oppo"
+        },
+        {
+          "maincategory": "Smart Phones",
+          "subcategory": "Apple iPhones",
+          "url": "https://www.daraz.pk/smartphones/apple"
+        },
+        {
+          "maincategory": "Smart Phones",
+          "subcategory": "Tecno Mobiles",
+          "url": "https://www.daraz.pk/smartphones/?q=tecno&from=input"
+        },
+        {
+          "maincategory": "Smart Phones",
+          "subcategory": "Samsung Mobile Phones",
+          "url": "https://www.daraz.pk/catalog/?q=samsung%20%20mobile"
+        },
+        {
+          "maincategory": "Smart Phones",
+          "subcategory": "Vivo Mobiles",
+          "url": "https://www.daraz.pk/smartphones/vivo"
+        },
+        {
+          "maincategory": "Cameras & Drones",
+          "subcategory": "Drones",
+          "url": "https://www.daraz.pk/camera-drones"
+        },
+        {
+          "maincategory": "Cameras & Drones",
+          "subcategory": "Point & Shoot",
+          "url": "https://www.daraz.pk/point-shoot-plain-digital"
+        },
+        {
+          "maincategory": "Cameras & Drones",
+          "subcategory": "DSLR",
+          "url": "https://www.daraz.pk/dslr-hybrid-cameras"
+        },
+        {
+          "maincategory": "Cameras & Drones",
+          "subcategory": "Instant Cameras",
+          "url": "https://www.daraz.pk/instant-camera"
+        },
+        {
+          "maincategory": "Cameras & Drones",
+          "subcategory": "Video Camera",
+          "url": "https://www.daraz.pk/video-camera"
+        },
+        {
+          "maincategory": "Laptops",
+          "subcategory": "Refurbished Laptops",
+          "url": "https://www.daraz.pk/refurbished-laptops"
+        },
+        {
+          "maincategory": "Laptops",
+          "subcategory": "Traditional Laptops",
+          "url": "https://www.daraz.pk/traditional-laptops"
+        },
+        {
+          "maincategory": "Desktops",
+          "subcategory": "All-In-One",
+          "url": "https://www.daraz.pk/computer-all-in-ones"
+        },
+        {
+          "maincategory": "Mobile Accessories",
+          "subcategory": "Tablet Accessories",
+          "url": "https://www.daraz.pk/accessories-tablet"
+        },
+        {
+          "maincategory": "Mobile Accessories",
+          "subcategory": "Cables & Converters",
+          "url": "https://www.daraz.pk/other-phone-tablet-accessories"
+        },
+        {
+          "maincategory": "Mobile Accessories",
+          "subcategory": "Phone Cases",
+          "url": "https://www.daraz.pk/mobile-cases-covers"
+        },
+        {
+          "maincategory": "Mobile Accessories",
+          "subcategory": "Car Mounts",
+          "url": "https://www.daraz.pk/car-mounts"
+        },
+        {
+          "maincategory": "Mobile Accessories",
+          "subcategory": "Parts & Tools",
+          "url": "https://www.daraz.pk/mobiles-tablets-parts-tools"
+        },
+        {
+          "maincategory": "Mobile Accessories",
+          "subcategory": "Screen Protectors",
+          "url": "https://www.daraz.pk/mobile-surface-screen-protectors"
+        },
+        {
+          "maincategory": "Mobile Accessories",
+          "subcategory": "Power Banks",
+          "url": "https://www.daraz.pk/mobile-power-banks"
+        },
+        {
+          "maincategory": "Mobile Accessories",
+          "subcategory": "Phone Camera Flash Lights",
+          "url": "https://www.daraz.pk/phone-camera-flash-lights"
+        },
+        {
+          "maincategory": "Mobile Accessories",
+          "subcategory": "Wireless Chargers",
+          "url": "https://www.daraz.pk/bluetooth-accessories"
+        },
+        {
+          "maincategory": "Mobile Accessories",
+          "subcategory": "Selfie Sticks",
+          "url": "https://www.daraz.pk/selfie-sticks"
+        },
+        {
+          "maincategory": "Mobile Accessories",
+          "subcategory": "Car Chargers",
+          "url": "https://www.daraz.pk/car-chargers"
+        },
+        {
+          "maincategory": "Mobile Accessories",
+          "subcategory": "Wall Chargers",
+          "url": "https://www.daraz.pk/phone-tablet-chargers"
+        },
+        {
+          "maincategory": "Camera Accessories",
+          "subcategory": "Gimbals & Stabilizers",
+          "url": "https://www.daraz.pk/gimbals-stabilizer"
+        },
+        {
+          "maincategory": "Camera Accessories",
+          "subcategory": "Action Camera Accessories",
+          "url": "https://www.daraz.pk/sport-action-camera-accessories"
+        },
+        {
+          "maincategory": "Camera Accessories",
+          "subcategory": "Lenses",
+          "url": "https://www.daraz.pk/camera-lenses"
+        },
+        {
+          "maincategory": "Camera Accessories",
+          "subcategory": "Tripods & Monopods",
+          "url": "https://www.daraz.pk/tripods-monopods"
+        },
+        {
+          "maincategory": "Camera Accessories",
+          "subcategory": "Memory Cards",
+          "url": "https://www.daraz.pk/camera-memory-cards"
+        },
+        {
+          "maincategory": "Camera Accessories",
+          "subcategory": "Batteries",
+          "url": "https://www.daraz.pk/camera-batteries"
+        },
+        {
+          "maincategory": "Camera Accessories",
+          "subcategory": "Lighting & Studio Equipment",
+          "url": "https://www.daraz.pk/lighting-studio-equipment"
+        },
+        {
+          "maincategory": "Camera Accessories",
+          "subcategory": "Camera Cases, Covers and Bags",
+          "url": "https://www.daraz.pk/camera-bags"
+        },
+        {
+          "maincategory": "Wearable",
+          "subcategory": "Fitness & Activity Trackers",
+          "url": "https://www.daraz.pk/fitness-trackers"
+        },
+        {
+          "maincategory": "Wearable",
+          "subcategory": "Virtual Reality",
+          "url": "https://www.daraz.pk/virtual-reality"
+        },
+        {
+          "maincategory": "Network Components",
+          "subcategory": "Access Points",
+          "url": "https://www.daraz.pk/access-points"
+        },
+        {
+          "maincategory": "Computer Components",
+          "subcategory": "Motherboards",
+          "url": "https://www.daraz.pk/motherboard"
+        },
+        {
+          "maincategory": "Computer Components",
+          "subcategory": "Processors",
+          "url": "https://www.daraz.pk/processor"
+        },
+        {
+          "maincategory": "Computer Components",
+          "subcategory": "Fans & Heatsinks",
+          "url": "https://www.daraz.pk/fans-heatsinks"
+        },
+        {
+          "maincategory": "Computer Components",
+          "subcategory": "Graphic Cards",
+          "url": "https://www.daraz.pk/computer-graphic-cards"
+        },
+        {
+          "maincategory": "Computer Components",
+          "subcategory": "Desktop Casings",
+          "url": "https://www.daraz.pk/casing"
+        },
+        {
+          "maincategory": "Headphones & Headsets",
+          "subcategory": "Bluetooth Headsets",
+          "url": "https://www.daraz.pk/audio-bluetooth-headsets"
+        },
+        {
+          "maincategory": "Headphones & Headsets",
+          "subcategory": "Wired Headsets",
+          "url": "https://www.daraz.pk/audio-wired-headsets"
+        },
+        {
+          "maincategory": "Headphones & Headsets",
+          "subcategory": "In-Ear Headphones",
+          "url": "https://www.daraz.pk/earphones-headsets"
+        },
+        {
+          "maincategory": "Headphones & Headsets",
+          "subcategory": "Over-The-Ear Headphones",
+          "url": "https://www.daraz.pk/over-the-ear-headphones"
+        },
+        {
+          "maincategory": "Headphones & Headsets",
+          "subcategory": "Headphones & Headsets Access.",
+          "url": "https://www.daraz.pk/headphones-headsets-accessories"
+        },
+        {
+          "maincategory": "Headphones & Headsets",
+          "subcategory": "Wireless Earbuds",
+          "url": "https://www.daraz.pk/wireless-earbuds"
+        },
+        {
+          "maincategory": "Headphones & Headsets",
+          "subcategory": "Mono Headsets",
+          "url": "https://www.daraz.pk/mono-headsets"
+        },
+        {
+          "maincategory": "Printers",
+          "subcategory": "Ink & Toners",
+          "url": "https://www.daraz.pk/printer-ink"
+        },
+        {
+          "maincategory": "Printers",
+          "subcategory": "Fax Machines",
+          "url": "https://www.daraz.pk/fax-machines"
+        },
+        {
+          "maincategory": "Storage",
+          "subcategory": "Internal Hard Drives",
+          "url": "https://www.daraz.pk/internal-hard-drives"
+        },
+        {
+          "maincategory": "Storage",
+          "subcategory": "Storage for Mac",
+          "url": "https://www.daraz.pk/storage-mac"
+        },
+        {
+          "maincategory": "Storage",
+          "subcategory": "Flash Drives",
+          "url": "https://www.daraz.pk/usb-flash-drives"
+        },
+        {
+          "maincategory": "Storage",
+          "subcategory": "OTG Drives",
+          "url": "https://www.daraz.pk/storage-otg-drives"
+        },
+        {
+          "maincategory": "Storage",
+          "subcategory": "External Hard Drives",
+          "url": "https://www.daraz.pk/external-hard-drives"
+        },
+        {
+          "maincategory": "Gaming Accessories",
+          "subcategory": "Gaming Mouse",
+          "url": "https://www.daraz.pk/gaming-mouse"
+        },
+        {
+          "maincategory": "Gaming Accessories",
+          "subcategory": "Gaming Keyboards",
+          "url": "https://www.daraz.pk/gaming-keyboard"
+        },
+        {
+          "maincategory": "Gaming Accessories",
+          "subcategory": "Gaming Headsets",
+          "url": "https://www.daraz.pk/gaming-headset"
+        },
+        {
+          "maincategory": "Computer Accessories",
+          "subcategory": "Mac Accessories",
+          "url": "https://www.daraz.pk/mac-accessories"
+        },
+        {
+          "maincategory": "Computer Accessories",
+          "subcategory": "Mouse",
+          "url": "https://www.daraz.pk/mouse"
+        },
+        {
+          "maincategory": "Computer Accessories",
+          "subcategory": "Adapters & Cables",
+          "url": "https://www.daraz.pk/computer-adapters"
+        },
+        {
+          "maincategory": "Computer Accessories",
+          "subcategory": "PC Audio",
+          "url": "https://www.daraz.pk/pc-audio"
+        },
+        {
+          "maincategory": "Computer Accessories",
+          "subcategory": "Cooling Pads/Cooling Stands",
+          "url": "https://www.daraz.pk/other-computer-accessories"
+        },
+        {
+          "maincategory": "Computer Accessories",
+          "subcategory": "Keyboards",
+          "url": "https://www.daraz.pk/keyboard"
+        },
+        {
+          "maincategory": "Refrigerators & Freezers",
+          "subcategory": "Freezers",
+          "url": "https://www.daraz.pk/freezers"
+        },
+        {
+          "maincategory": "Cooling & Heating",
+          "subcategory": "Air Cooler",
+          "url": "https://www.daraz.pk/portable-ac"
+        },
+        {
+          "maincategory": "Cooling & Heating",
+          "subcategory": "Air Purifier",
+          "url": "https://www.daraz.pk/air-purifiers"
+        },
+        {
+          "maincategory": "Cooling & Heating",
+          "subcategory": "Dehumidifier",
+          "url": "https://www.daraz.pk/dehumidifiers"
+        },
+        {
+          "maincategory": "Cooling & Heating",
+          "subcategory": "Humidifier",
+          "url": "https://www.daraz.pk/air-purifiers-humidifiers"
+        },
+        {
+          "maincategory": "Cooling & Heating",
+          "subcategory": "Fan",
+          "url": "https://www.daraz.pk/fans"
+        },
+        {
+          "maincategory": "Cooling & Heating",
+          "subcategory": "Room Heater",
+          "url": "https://www.daraz.pk/heaters"
+        },
+        {
+          "maincategory": "Cooling & Heating",
+          "subcategory": "Water Heater",
+          "url": "https://www.daraz.pk/hot-water-systems"
+        },
+        {
+          "maincategory": "Irons & Garment Care",
+          "subcategory": "Irons",
+          "url": "https://www.daraz.pk/ironing-laundry-appliances"
+        },
+        {
+          "maincategory": "Irons & Garment Care",
+          "subcategory": "Garment Steamer",
+          "url": "https://www.daraz.pk/steam-iron-systems"
+        },
+        {
+          "maincategory": "Irons & Garment Care",
+          "subcategory": "Sewing Machine",
+          "url": "https://www.daraz.pk/sewing-machines"
+        },
+        {
+          "maincategory": "Vacuums & Floor Care",
+          "subcategory": "Electric Brooms",
+          "url": "https://www.daraz.pk/electric-brooms"
+        },
+        {
+          "maincategory": "Vacuums & Floor Care",
+          "subcategory": "Steam Mops",
+          "url": "https://www.daraz.pk/steam-mops"
+        },
+        {
+          "maincategory": "Vacuums & Floor Care",
+          "subcategory": "Floor Polisher",
+          "url": "https://www.daraz.pk/floor-polishers1"
+        },
+        {
+          "maincategory": "Vacuums & Floor Care",
+          "subcategory": "Vacuum Cleaner",
+          "url": "https://www.daraz.pk/vacuum-cleaners"
+        },
+        {
+          "maincategory": "Kitchen Appliances",
+          "subcategory": "Microwave",
+          "url": "https://www.daraz.pk/microwaves"
+        },
+        {
+          "maincategory": "Kitchen Appliances",
+          "subcategory": "Water Dispensers",
+          "url": "https://www.daraz.pk/water-dispensers"
+        },
+        {
+          "maincategory": "Kitchen Appliances",
+          "subcategory": "Dishwashers",
+          "url": "https://www.daraz.pk/dishwashers-&-dryers"
+        },
+        {
+          "maincategory": "Kitchen Appliances",
+          "subcategory": "Cooktop & Range",
+          "url": "https://www.daraz.pk/cooktops-2"
+        },
+        {
+          "maincategory": "Kitchen Appliances",
+          "subcategory": "Oven",
+          "url": "https://www.daraz.pk/large-ovens"
+        },
+        {
+          "maincategory": "Kitchen Appliances",
+          "subcategory": "Air & Deep Fryers",
+          "url": "https://www.daraz.pk/fryers"
+        },
+        {
+          "maincategory": "Kitchen Appliances",
+          "subcategory": "Specialty Cookware",
+          "url": "https://www.daraz.pk/specialty-cookware-appliances"
+        },
+        {
+          "maincategory": "Kitchen Appliances",
+          "subcategory": "Juicer & Fruit Extraction",
+          "url": "https://www.daraz.pk/juicers"
+        },
+        {
+          "maincategory": "Kitchen Appliances",
+          "subcategory": "Blender, Mixer & Grinder",
+          "url": "https://www.daraz.pk/food-preparation"
+        },
+        {
+          "maincategory": "Kitchen Appliances",
+          "subcategory": "Electric Kettle",
+          "url": "https://www.daraz.pk/kettles"
+        },
+        {
+          "maincategory": "Kitchen Appliances",
+          "subcategory": "Pressure Cookers",
+          "url": "https://www.daraz.pk/pressure-cookers"
+        },
+        {
+          "maincategory": "Kitchen Appliances",
+          "subcategory": "Rice Cooker",
+          "url": "https://www.daraz.pk/rice-cookers"
+        },
+        {
+          "maincategory": "Home Audio & Theater",
+          "subcategory": "Soundbar Speakers",
+          "url": "https://www.daraz.pk/sound-bars"
+        },
+        {
+          "maincategory": "Home Audio & Theater",
+          "subcategory": "Live Sound & Stage Equipment",
+          "url": "https://www.daraz.pk/live-sound-stage"
+        },
+        {
+          "maincategory": "Home Audio & Theater",
+          "subcategory": "Home Entertainment",
+          "url": "https://www.daraz.pk/audio-home-entertainment"
+        },
+        {
+          "maincategory": "Home Audio & Theater",
+          "subcategory": "Home Theater Systems",
+          "url": "https://www.daraz.pk/home-theater"
+        },
+        {
+          "maincategory": "Televisions",
+          "subcategory": "LED Televisions",
+          "url": "https://www.daraz.pk/led-tvs"
+        },
+        {
+          "maincategory": "Televisions",
+          "subcategory": "Smart Televisions",
+          "url": "https://www.daraz.pk/smart-tvs"
+        },
+        {
+          "maincategory": "Projectors & Players",
+          "subcategory": "Projectors",
+          "url": "https://www.daraz.pk/computing-projectors"
+        },
+        {
+          "maincategory": "Projectors & Players",
+          "subcategory": "Blu Ray & DVD Players",
+          "url": "https://www.daraz.pk/blu-ray-&-dvd-players"
+        },
+        {
+          "maincategory": "Generator, UPS & Solar",
+          "subcategory": "Solar Inverters",
+          "url": "https://www.daraz.pk/solar-inverters"
+        },
+        {
+          "maincategory": "Generator, UPS & Solar",
+          "subcategory": "Generators",
+          "url": "https://www.daraz.pk/generators"
+        },
+        {
+          "maincategory": "Generator, UPS & Solar",
+          "subcategory": "UPS",
+          "url": "https://www.daraz.pk/ups-inverter"
+        },
+        {
+          "maincategory": "TV Accessories",
+          "subcategory": "Antennas",
+          "url": "https://www.daraz.pk/antennas"
+        },
+        {
+          "maincategory": "TV Accessories",
+          "subcategory": "TV Receivers",
+          "url": "https://www.daraz.pk/tv-receivers"
+        },
+        {
+          "maincategory": "TV Accessories",
+          "subcategory": "Cables",
+          "url": "https://www.daraz.pk/tv-cables"
+        },
+        {
+          "maincategory": "TV Accessories",
+          "subcategory": "3D Glasses",
+          "url": "https://www.daraz.pk/3d-glasses"
+        },
+        {
+          "maincategory": "TV Accessories",
+          "subcategory": "TV Remote Controllers",
+          "url": "https://www.daraz.pk/tv-remote-controllers"
+        },
+        {
+          "maincategory": "TV Accessories",
+          "subcategory": "Wall Mounts & Protectors",
+          "url": "https://www.daraz.pk/projectors"
+        },
+        {
+          "maincategory": "TV Accessories",
+          "subcategory": "TV Adapters",
+          "url": "https://www.daraz.pk/tv-adapters"
+        }
+      ]
+    }
+  ]
